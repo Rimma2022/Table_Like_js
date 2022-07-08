@@ -1,0 +1,43 @@
+div {
+    height: 300px;
+    width: 500px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+button{
+    height: 20%;
+    width: 50%;
+    background-color: deepskyblue;
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+input{
+    height: 30%;
+    width: 10%;
+    background-color: #00bfff;
+    border: none;
+    font-size: 20px;
+    color: white;
+    pointer-events: none;
+}
+
+table{
+    width: 30%;
+    height: 160px;
+    border-collapse: collapse;
+    
+    margin-top: 100px;            
+}
+td{
+    background-color: #faebd7;
+    text-align: center;
+    
+}
+th {
+    background-color: #faebd7;   
+}
